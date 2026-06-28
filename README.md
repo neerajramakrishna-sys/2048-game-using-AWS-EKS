@@ -1,1 +1,2 @@
 # 2048-game-using-AWS-EKS
+This project demonstrates a production-grade Kubernetes deployment on AWS Elastic Kubernetes Service (EKS), focusing on a managed control plane and serverless data plane using AWS Fargate. The primary objective is to deploy a real-time application (the 2048 game) within a private subnet and expose it to the public internet using an Application Load Balancer (ALB) via an Ingress controller.
